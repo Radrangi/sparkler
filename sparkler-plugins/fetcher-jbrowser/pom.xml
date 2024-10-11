@@ -32,7 +32,7 @@
     <url>http://maven.apache.org</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jbrowserdriver.version>0.16.4</jbrowserdriver.version>
+        <jbrowserdriver.version>0.17.11</jbrowserdriver.version>
         <plugin.id>${project.artifactId}</plugin.id>
         <plugin.class>edu.usc.irds.sparkler.plugin.FetcherJBrowserActivator</plugin.class>
     </properties>
