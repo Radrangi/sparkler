@@ -36,7 +36,7 @@
         <nutch.version>1.13</nutch.version>
         <kafka.version>0.10.0.0</kafka.version>
         <hbase.version>1.2.1</hbase.version>
-        <solr.version>6.4.0</solr.version>
+        <solr.version>8.11.2</solr.version>
         <slf4j.version>1.7.25</slf4j.version>
         <snakeyaml.version>1.17</snakeyaml.version>
         <json.simple.version>1.1.1</json.simple.version>
@@ -52,7 +52,7 @@
         <junit.version>4.12</junit.version>
         <args4j.version>2.0.29</args4j.version>
         <slf4j.version>1.7.12</slf4j.version>
-        <tika.version>1.14</tika.version>
+        <tika.version>1.28</tika.version>
         <pf4j.version>2.0.0</pf4j.version>
     </properties>
     <modules>
